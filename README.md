@@ -19,6 +19,7 @@ the project is built as an answer to a code challenge test.
 
 ## Code Examples
 http://localhost:8080/trending/repositories/total?langage=en
+
 http://localhost:8080/trending/repositories/list?langage=en
 
 ## Features
