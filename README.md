@@ -22,14 +22,12 @@ the project is built as an answer to a code challenge test.
 ` java -jar micro-git-trending-0.0.1-SNAPSHOT.jar `
 ## Code Examples
 * to display the number of trending repo for javascript language
+
 http://localhost:8080/api/repositories/javascript/total
 
 * to display the list of trending repo for javascript language
-http://localhost:8080/api/repositories/javascript/list
 
-## Features
- TODOs for future development
-* Awesome feature 1
+http://localhost:8080/api/repositories/javascript/list
 
 ## Status
 Project is: _Finished_
