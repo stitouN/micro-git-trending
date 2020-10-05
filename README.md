@@ -19,7 +19,7 @@ the project is built as an answer to a code challenge test.
 * You build the project using command line
 ` mvn clean install `
 * You start the embeded tomcat 
-` java -jar micro-git-trending-0.0.1-SNAPSHOT `
+` java -jar micro-git-trending-0.0.1-SNAPSHOT.jar `
 ## Code Examples
 * to display the number of trending repo for javascript language
 http://localhost:8080/api/repositories/javascript/total
