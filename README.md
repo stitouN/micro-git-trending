@@ -16,15 +16,20 @@ the project is built as an answer to a code challenge test.
 * Spring Web - version 2.2.10
 
 ## Setup
-
+* You build the project using command line
+` mvn clean install `
+* You start the embeded tomcat 
+` java -jar micro-git-trending-0.0.1-SNAPSHOT `
 ## Code Examples
-http://localhost:8080/trending/repositories/total?langage=en
+* to display the number of trending repo for javascript language
+http://localhost:8080/api/repositories/javascript/total
 
-http://localhost:8080/trending/repositories/list?langage=en
+* to display the list of trending repo for javascript language
+http://localhost:8080/api/repositories/javascript/list
 
 ## Features
  TODOs for future development
 * Awesome feature 1
 
 ## Status
-Project is: _in progress_
+Project is: _Finished_
